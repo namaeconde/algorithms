@@ -5,7 +5,7 @@ public class BinarySearch {
     /**
      * Search X using binary search algorithm,
      * given a sorted array of integers.
-     *
+     * O(logN) time complexity.
      * @param array
      * @param start
      * @param end
